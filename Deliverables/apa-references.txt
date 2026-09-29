@@ -1,0 +1,22 @@
+CIT2011 IA1 - APA references
+Zachary Andre Hutton | 2507386
+
+Clason, G. S. (1926). The richest man in Babylon. Project Gutenberg.
+https://www.gutenberg.org/ebooks/73863
+
+Harvard University Faculty of Arts and Sciences Career Services. (n.d.).
+Create a strong resume.
+https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/
+
+Indeed Editorial Team. (n.d.). What makes a good resume. Indeed.
+https://www.indeed.com/career-advice/resumes-cover-letters/what-makes-a-good-resume
+
+Miao, F., & Holmes, W. (2023). Guidance for generative AI in education and research.
+UNESCO.
+https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research
+
+Mozilla Developer Network. (n.d.). Structuring content with HTML. MDN Web Docs.
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content
+
+World Wide Web Consortium. (n.d.). HTML Living Standard.
+https://html.spec.whatwg.org/

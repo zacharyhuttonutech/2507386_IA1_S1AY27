@@ -1,0 +1,34 @@
+Zachary Andre Hutton
+ID 2507386
+CIT2011 IA1 S1 AY2026/27
+
+GitHub repo (make the repo with this exact name on zacharyhuttonutech)
+https://github.com/zacharyhuttonutech/2507386_IA1_S1AY27
+
+Live site (turn on GitHub Pages from the main branch)
+https://zacharyhuttonutech.github.io/2507386_IA1_S1AY27/
+
+Home
+https://zacharyhuttonutech.github.io/2507386_IA1_S1AY27/Codes/index.html
+
+Professional
+https://zacharyhuttonutech.github.io/2507386_IA1_S1AY27/Codes/professional.html
+
+Personality
+https://zacharyhuttonutech.github.io/2507386_IA1_S1AY27/Codes/personality.html
+
+Development
+https://zacharyhuttonutech.github.io/2507386_IA1_S1AY27/Codes/development.html
+
+Storyboard pdf
+Deliverables/storybard-2507386.pdf
+
+W3C screenshots (no errors)
+Deliverables/w3c/index-w3c.png
+Deliverables/w3c/professional-w3c.png
+Deliverables/w3c/personality-w3c.png
+Deliverables/w3c/development-w3c.png
+Deliverables/w3c/style-w3c.png
+
+Tutor
+canuli@utech.edu.jm

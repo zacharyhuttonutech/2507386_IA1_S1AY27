@@ -1,0 +1,31 @@
+CIT2011 IA1 assets list and colour palette
+Student: Zachary Andre Hutton | ID 2507386
+
+COLOUR PALETTE (with RGB)
+Name              Hex       RGB
+Page background   #FFFDFB   255, 253, 251
+Black             #111111   17, 17, 17
+Body text         #1C1C1C   28, 28, 28
+Accent red        #FF2222   255, 34, 34
+
+TYPOGRAPHY
+Body font family: Arial, Helvetica, sans-serif
+Heading font: Arial, Helvetica, sans-serif
+Root font size: 16px
+Root font weight: normal (400)
+Heading font weight: bold (700)
+
+IMAGES
+utech-id-face.jpg     face crop from the UTech ID, shown about 210px wide, red border
+utech-id-web.jpg      full ID card, shown about 260px wide
+utech-id.png          original scan, 900 x 1600
+dream-resume-2507386.pdf   PDF copy of the dream resume
+
+ICONS
+No icon images on the pages. The old svg icons are unused.
+
+LAYOUT NOTES
+Black headers, red names, big red nav tabs
+Content column about 780px, goes to about 860px when the screen is at least 950px wide
+Phone layout kicks in at 600px: tabs stack
+Headings are centered with a black underline. Long writing is left aligned
